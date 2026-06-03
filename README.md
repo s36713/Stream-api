@@ -4,6 +4,6 @@
 
 3.Collectors.groupingBy zwraca standardową nieposortowaną mapę aby posrtować jej elementy po wartościach i użyć limit() trzeba utworzyć nowy strumień.
 
-4.Wystąpi błąd IllegalStateException. Strumienie w Javie są jednorazowego użytku.
+4.Wystąpi błąd IllegalStateException. Strumienie w Javie są jednorazowego  użytku.
 
 
