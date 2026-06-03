@@ -6,4 +6,4 @@
 
 4.Wystąpi błąd IllegalStateException. Strumienie w Javie są jednorazowego użytku.
 
-5.Ponieważ strumienie w Javie są leniwe. filter i map to tylko instrukcje ale same z siebie nic nie są wstanie odpalić aby to zadziałało należy na samym końcu dopisać jakąś operację końcową
+
